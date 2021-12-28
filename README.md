@@ -1,16 +1,23 @@
 ### Hi there, I'm Yousef - [yousefShallah][website] 👋 
 
-[![Website]](https://yousefshallah.vercel.app/)
-
 ## I'm a Fullstack Developer!!
 
-- 🌱 I’m currently learning everything I see
+- 🌱 I’m currently learning everything About Fullstack Javascript
+*Framework and library I work with:
+---> UI Library: Ant design, MaterialUI, Formik, ChakraUI, bootstrap, google charts, fusion charts, and other libraries to improve my UI.
+---> Helper React library: firebase, basic knowledge with stripe, git & Github, bitbucket, yarn & npm, webpack, ngrok server
+---> State management:  Redux, Redux-saga, Redux-thunk
+---> Management, Tasks, and create perfect UI design: Jera, Trello, Monday, miro, Figma, and Zeplin
+
+<br />
+<br />
 
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br />
 <br />
 
 ### Languages and Tools:
