@@ -1,4 +1,4 @@
-### Hi there, I'm Yousef [Yousef][website] 👋 
+### Hi there, I'm [Yousef][website] 👋 
 
 ## I'm a Fullstack Developer!!
 
