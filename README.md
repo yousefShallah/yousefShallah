@@ -1,4 +1,4 @@
-### Hi there, I'm Yousef - [yousefShallah][website] 👋 
+### Hi there, I'm Yousef [Yousef][website] 👋 
 
 ## I'm a Fullstack Developer!!
 
@@ -10,9 +10,6 @@
 - Helper React library: firebase, basic knowledge with stripe, git & Github, bitbucket, yarn & npm, webpack, ngrok server
 - State management:  Redux, Redux-saga, Redux-thunk
 - Management, Tasks, and create perfect UI design: Jera, Trello, Monday, miro, Figma, and Zeplin
-
-<br />
-<br />
 
 ### Connect with me:
 
