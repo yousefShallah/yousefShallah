@@ -7,12 +7,9 @@
 ## ⚡ Framework and library I work with:
 
 - UI Library: Ant design, MaterialUI, Formik, ChakraUI, bootstrap, google charts, fusion charts, and other libraries to improve my UI.
-<br />
----> Helper React library: firebase, basic knowledge with stripe, git & Github, bitbucket, yarn & npm, webpack, ngrok server
-<br />
----> State management:  Redux, Redux-saga, Redux-thunk
-<br />
----> Management, Tasks, and create perfect UI design: Jera, Trello, Monday, miro, Figma, and Zeplin
+- Helper React library: firebase, basic knowledge with stripe, git & Github, bitbucket, yarn & npm, webpack, ngrok server
+- State management:  Redux, Redux-saga, Redux-thunk
+- Management, Tasks, and create perfect UI design: Jera, Trello, Monday, miro, Figma, and Zeplin
 
 <br />
 <br />
