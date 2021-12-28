@@ -3,7 +3,7 @@
 ## I'm a Fullstack Developer!!
 
 - 🌱 I’m currently learning everything About Fullstack Javascript
--Framework and library I work with:
+- ⚡ Framework and library I work with:
 <br />
 ---> UI Library: Ant design, MaterialUI, Formik, ChakraUI, bootstrap, google charts, fusion charts, and other libraries to improve my UI.
 <br />
